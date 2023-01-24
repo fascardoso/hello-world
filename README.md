@@ -1,4 +1,4 @@
-# Hello-world
+# Hello-world significa "olá mundo"
 Repositório criado para o treinamento sobre o github
 
 # Personalização do Readme
